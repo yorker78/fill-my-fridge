@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Mom's Tomato Soup",
+    "version": "1.0",
+    "cook_time": "",
+    "cooking_method": "boil",
+    "recipe_yield": 4,
+    "recipe_ingredients": [
+      {
+        "quantity": 4,
+        "unit": "cups",
+        "ingredient": "chopped fresh tomatoes"
+      },
+      {
+        "quantity": 2,
+        "unit": "cups",
+        "ingredient": "chicken broth"
+      },
+      {
+        "quantity": 4,
+        "unit": "cloves",
+        "ingredient": "garlic"
+      },
+      {
+        "quantity": 1,
+        "unit": "large slice",
+        "ingredient": "of onion"
+      },
+      {
+        "quantity": 2,
+        "unit": "tablespoons",
+        "ingredient": "butter"
+      },
+      {
+        "quantity": 2,
+        "unit": "tablespoons",
+        "ingredient": "all-purpose flour"
+      },
+      {
+        "quantity": 2,
+        "unit": "teaspoons",
+        "ingredient": "white sugar, or to taste"
+      },
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "ingredient": "salt, or to taste"
+      }
+    ],
+    "recipe_instructions": [
+      "Gather the ingredients.",
+      "Combine tomatoes, chicken broth, garlic cloves, and a large slice of onion in a stockpot over medium heat. Bring to a boil, and gently simmer for about 20 minutes to blend flavors.",
+      "Remove from heat and run the mixture through a food mill into a large bowl, or pan. Discard any stuff left over in the food mill.",
+      "Melt butter over medium heat in the now empty stockpot. Stir in flour to make a roux by cooking, whisking constantly, until mixture turns medium brown.",
+      "Gradually whisk in a bit of the tomato mixture to prevent lumps from forming, then stir in the rest.",
+      "Season with sugar and salt to taste.",
+      "Serve hot and enjoy!"
+    ],
+    "recipe_tags": [
+      "soup"
+    ]
+  },
+  {
+    "name": "Fried Chicken",
+    "version": "2.0",
+    "cook_time": "",
+    "cooking_method": "",
+    "recipe_yield": 4,
+    "recipe_ingredients": [],
+    "recipe_instructions": [
+      ""
+    ],
+    "recipe_tags": []
+  },
+  {
+    "name": "Cowboy Caviar",
+    "version": "1.5",
+    "cook_time": "",
+    "cooking_method": "",
+    "recipe_yield": 8,
+    "recipe_ingredients": [],
+    "recipe_instructions": [
+      ""
+    ],
+    "recipe_tags": []
+  }
+]
